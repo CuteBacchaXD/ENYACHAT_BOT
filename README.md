@@ -1,8 +1,9 @@
+   _____𝗘𝗡𝗬𝗔𝗖𝗛𝗔𝗧 𝗕𝗢𝗧_____
 <p align="center">
   <img src="https://graph.org/file/82042038f5a55b2e1f7dc.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━━━━
-   _____𝗘𝗡𝗬𝗔𝗖𝗛𝗔𝗧 𝗕𝗢𝗧_____
+   
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
