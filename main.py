@@ -10,8 +10,8 @@ import time
 from datetime import datetime
 #from database.users_chats_db import db
 
-API_ID = "14050586"
-API_HASH = "42a60d9c657b106370c79bb0a8ac560c"
+API_ID = "23854524"
+API_HASH = "e765ba734e8c485b1b1f72dff94127de"
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
 MONGO_URL = os.environ.get("MONGO_URL", None)
 DATABASE_NAME = os.environ.get("DATABASE_NAME") 
@@ -37,7 +37,7 @@ async def is_admins(chat_id: int):
 
 
 EMOJIOS = [ 
-      "═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══",
+      "═══❰👅𝐖𝐄𝐋𝐂𝐎𝐌𝐄👅❱═══",
 ]
       
 START = f"""
@@ -336,5 +336,5 @@ async def vickprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"🎄𝗩𝗜𝗣 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗚𝗢 𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬🎄 ")      
+print(f"🎄𝗘𝗡𝗬𝗔𝗖𝗛𝗔𝗧 𝗕𝗢𝗧__ 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗚𝗢 𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬🎄 ")      
 bot.run()
